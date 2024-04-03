@@ -14,5 +14,4 @@ Here are the my PowerBI Dashboard:
 ![image](https://github.com/Sushant2131/Global-Car-Sale-Analysis/assets/74125735/1be26ad4-4ee5-4b2e-bbbb-7b74f67d8245)
 
 Here is link for Dashboard:
-
-!(https://www.novypro.com/project/global-car-sales-analysis)
+https://www.novypro.com/project/global-car-sales-analysis
